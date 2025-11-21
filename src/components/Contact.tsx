@@ -44,8 +44,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+91 XXXX XXXXXX</p>
-                    <p className="text-muted-foreground">+91 XXXX XXXXXX</p>
+                    <p className="text-muted-foreground">+91 7970463729</p>
+                    <p className="text-muted-foreground">+91 8972171685</p>
                   </div>
                 </div>
               </div>
@@ -57,8 +57,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                    <p className="text-muted-foreground">info@gemeasy.in</p>
-                    <p className="text-muted-foreground">support@gemeasy.in</p>
+                    <p className="text-muted-foreground">gemeasy25@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -71,9 +70,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Office</h3>
                     <p className="text-muted-foreground">
-                      Business District, City Name
-                      <br />
-                      State, PIN Code
+                      Ground Floor, Adison Arcade, LG-11, Fraser Rd, opp. Durdarshan, Old Jakkanpur, Lodipur, Patna, Bihar 800001
                     </p>
                   </div>
                 </div>

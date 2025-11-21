@@ -10,8 +10,13 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
-            <div className="bg-primary rounded-lg p-2">
-              <FileText className="h-6 w-6 text-primary-foreground" />
+            <div className="flex items-center gap-2">
+              <img
+                src="/favicon.jpeg"
+                alt="GEMEASY Logo"
+                className="h-10 w-auto"
+              />
+              <span className="text-2xl font-bold text-foreground">GEMEASY</span>
             </div>
             <span className="text-2xl font-bold text-foreground">GEMEASY</span>
           </div>

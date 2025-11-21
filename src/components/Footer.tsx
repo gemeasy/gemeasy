@@ -55,8 +55,8 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Contact Info</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
-              <li>Phone: +91 XXXX XXXXXX</li>
-              <li>Email: info@gemeasy.in</li>
+              <li>Phone: +91 7970463729</li>
+              <li>Email: gemeasy25@gmail.com</li>
               <li>Mon - Sat: 9:00 AM - 6:00 PM</li>
             </ul>
           </div>
