@@ -16,7 +16,6 @@ const Navbar = () => {
                 alt="GEMEASY Logo"
                 className="h-10 w-auto"
               />
-              <span className="text-2xl font-bold text-foreground">GEMEASY</span>
             </div>
             <span className="text-2xl font-bold text-foreground">GEMEASY</span>
           </div>
